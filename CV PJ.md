@@ -12,4 +12,4 @@ Très heureux de commencer cette formation **TSSR** à la **WCC**.
 - informatique
 - vin
 
-![Photo 2025-10-21 12-06-26.png](:/5cb0ba85fe074d579679a8088aa1a786)
+![Photo 2025-10-21 12-06-26.png](https://github.com/Titus-89/projet-wcc/blob/main/Photo%202025-10-21%2012-06-26.png)
