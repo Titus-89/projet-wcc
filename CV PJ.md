@@ -7,7 +7,7 @@ Très heureux de commencer cette formation **TSSR** à la **WCC**.
 - BTSA Viti-Oeno au **CNEAC d'Angers** en 2019
 ### Expérience professionnelle :
 - Vigneron au *Château Gaillot-Fournier* de 2019 à 2025
-  [gaillot-fournier.fr](www.gaillot-fournier.fr)
+  [gaillot-fournier.fr](https://www.gaillot-fournier.fr)
 ### Hobbies :
 - informatique
 - vin
