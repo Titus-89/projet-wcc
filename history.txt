@@ -1,0 +1,6 @@
+  880  grep France,2019,PHP wilders.csv 
+  881  grep France,2019,PHP wilders.csv > php_france_2019.csv 
+  882  grep 'JavaScript' wilders.csv > isolejava.csv
+  883  grep -e Toulouse -e Biarritz isolejava.csv > javascript_biarritz_toulouse.csv
+  884  history | tail -n 8 > history.txt   
+  885  history | tail -n 6 > history.txt   
